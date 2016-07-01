@@ -1,6 +1,6 @@
 ## Subject Domains for Bioinformatics Education
 
-- General Biology 
+- General Biology
 - Cell Biology
 - Genetics
 - Molecular Biology
@@ -19,4 +19,4 @@
 - System Programming
 
 
-These are the main domains to learn 
+These are the main domains to learn
