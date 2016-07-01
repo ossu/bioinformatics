@@ -1,22 +1,47 @@
 ## Subject Domains for Bioinformatics Education
 
-- General Biology
-- Cell Biology
+### Biology
+- Introduction to Biology
+- Biochemistry
 - Genetics
+- Cell Biology
 - Molecular Biology
-- Molecular Genetics
+- Genomics
+- Biostatistics
+- Bioinformatics
+
+### Chemistry
 - General Chemistry
 - Organic Chemistry
-- Calculus 1-2
-- Linear Algebra (Matrix Algebra)
-- Discrete Math (Combinatorics)
-- Differential Equations
-- Probability and Statistics
-- Principles of Computer Science (CS-1)
-- Object Oriented Programming (CS-2)
-- High Performance Programming (CS-3)
-- Data Structures and Algorithms
+
+### Computer Science
+- Introduction to CS
+- Data Structures
+- Algorithms
+- Database Systems
 - System Programming
+- Scientific Computing
+- Machine Learning
+- Introduction to Data Science
+- Statistical Programming
+- High Performance Computing
+- Parallel Computing
 
+### Math
+- Calculus 1
+- Calculus 2
+- Differential Equations
+- Linear Algebra
+- Discrete Math
+- Statistics
+- Probability
+- Numerical Methods
 
-These are the main domains to learn
+### Master Courses
+- Choose your Path
+- Systems Biology
+- Computational Biology
+- Bioinformatics
+- Computational Neuroscience
+- Biomedical Engineering
+> More here...
