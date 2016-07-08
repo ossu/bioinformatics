@@ -7,19 +7,30 @@ BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-bio
 BIO 2311 | [Biochemistry](https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x) | 15 Weeks | 4-6 Hours/Week
 BIO 3311 | [Genetics 1 ](https://www.edx.org/course/useful-genetics-part-1-how-genes-shape-ubcx-usegen-1x-0) | 7 Weeks | 6-8 Hours/Week
 BIO 3312 | [Cell Biology ](http://ocw.mit.edu/courses/biology/7-06-cell-biology-spring-2007/) | - Weeks | - Hours/Week
-BIO 3313 | [Biostatistics]() | |
+BIO 3313a | [Biostatistics 1](https://www.coursera.org/learn/biostatistics) | 4 Weeks | 3-5 Hours/Week
+BIO 3313b | [Biostatistics 2](https://www.coursera.org/learn/biostatistics-2) | 4 Weeks | 3-5 Hours/Week
 BIO 4311 | [Genetics 2](https://www.edx.org/course/useful-genetics-part-2-genes-genetic-ubcx-usegen-2x-0) | 5 Weeks | 6-8 Hours/Week
-- Molecular Biology
-- Genomics
-
-- Bioinformatics
+BIO 4312a | [Molecular Biology 1 ](https://www.edx.org/course/molecular-biology-part-1-dna-replication-mitx-7-28-1x1-0) | 8 Weeks | 4-8 Hours/Week
+BIO 4312b | [Molecular Biology 2 ](https://www.edx.org/course/molecular-biology-part-2-transcription-mitx-7-28-2x-0) | 6 Weeks | 4-8 Hours/Week
+BIO 4313a | [Basic Bioinformatics](https://www.coursera.org/learn/bioinformatics) | 4 Weeks | 4-6 Hours/Week
 
 ### Chemistry
-- General Chemistry
-- Organic Chemistry
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+CHEM 1311 | [Principles of  Chemistry](http://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/) | 15 Weeks | 4-6 Hours/Week
+CHEM 2311 | [Organic Chemistry](http://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/) | 15 Weeks | 4-6 Hours/Week
 
 ### Computer Science
-- Introduction to CS
+Code | Course | Duration | Effort
+:-- | :--: | :--: | :--:
+COMP 1311a | [CS 1 - Python 1 ](https://www.coursera.org/learn/interactive-python-1) | 5 Weeks | 6 Hours/Week
+COMP 1311b | [CS 1 - Python 2 ](https://www.coursera.org/learn/interactive-python-2) | 4 Weeks | 6 Hours/Week
+COMP 1311c | [CS 1 - Principles of Computing 1 ](https://www.coursera.org/learn/principles-of-computing-1) | 4 Weeks | 6 Hours/Week
+COMP 1311d | [CS 1 - Principles of Computing 2 ](https://www.coursera.org/learn/principles-of-computing-2) | 4 Weeks | 6 Hours/Week
+COMP 2311 | [CS 2 - Object Oriented Java](https://www.coursera.org/learn/object-oriented-java) | 6 Weeks | 4-6 Hours/Week
+COMP 2312 | [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) | 10 Weeks | 8-12 Hours/Week
+COMP 2313 | [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) | 8 Weeks | 5-7 Hours/Week
+
 - Data Structures
 - Algorithms
 - Database Systems
