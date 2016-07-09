@@ -12,7 +12,7 @@ BIO 3313b | [Biostatistics 2](https://www.coursera.org/learn/biostatistics-2) | 
 BIO 4311 | [Genetics 2](https://www.edx.org/course/useful-genetics-part-2-genes-genetic-ubcx-usegen-2x-0) | 5 Weeks | 6-8 Hours/Week
 BIO 4312a | [Molecular Biology 1 ](https://www.edx.org/course/molecular-biology-part-1-dna-replication-mitx-7-28-1x1-0) | 8 Weeks | 4-8 Hours/Week
 BIO 4312b | [Molecular Biology 2 ](https://www.edx.org/course/molecular-biology-part-2-transcription-mitx-7-28-2x-0) | 6 Weeks | 4-8 Hours/Week
-BIO 4313a | [Basic Bioinformatics](https://www.coursera.org/learn/bioinformatics) | 4 Weeks | 4-6 Hours/Week
+BIO 4313a | [Basic Bioinformatics (Bioinformatics 1)](https://www.coursera.org/learn/bioinformatics) | 4 Weeks | 4-6 Hours/Week
 
 ### Chemistry
 Code | Course | Duration | Effort
@@ -30,17 +30,18 @@ COMP 1311d | [CS 1 - Principles of Computing 2 ](https://www.coursera.org/learn/
 COMP 2311 | [CS 2 - Object Oriented Java](https://www.coursera.org/learn/object-oriented-java) | 6 Weeks | 4-6 Hours/Week
 COMP 2312 | [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) | 10 Weeks | 8-12 Hours/Week
 COMP 2313 | [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) | 8 Weeks | 5-7 Hours/Week
-
-- Data Structures
-- Algorithms
-- Database Systems
-- System Programming
-- Scientific Computing
-- Machine Learning
-- Introduction to Data Science
-- Statistical Programming
-- High Performance Computing
-- Parallel Computing
+COMP 3311a | [Algorithmic Thinking 1 ](https://www.coursera.org/learn/algorithmic-thinking-1) | 4 Weeks | 6 Hours/Week
+COMP 3311b | [Algorithmic Thinking 2 ](https://www.coursera.org/learn/algorithmic-thinking-2) | 4 Weeks | 6 Hours/Week
+COMP 3312 | [High Performance (?)]() | ? | ?
+COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/Week
+COMP 4312a | [Bioinformatics 2](https://www.coursera.org/learn/genome-sequencing) | 4 Week | 6 Hours/Week
+COMP 4312b | [Bioinformatics 3](https://www.coursera.org/learn/comparing-genomes) | 4 Week | 6 Hours/Week
+COMP 4312c | [Bioinformatics 4](https://www.coursera.org/learn/molecular-evolution) | 4 Week | 6 Hours/Week
+COMP 4312d | [Bioinformatics 5](https://www.coursera.org/learn/genomic-data) | 4 Week | 6 Hours/Week
+COMP 4312e | [Bioinformatics 6](https://www.coursera.org/learn/dna-mutations) | 4 Week | 6 Hours/Week
+COMP 5311 | [Introduction to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120) | 10 Weeks | 6 Hours/Week
+COMP 5312 | [Deep Learning](https://www.udacity.com/course/deep-learning--ud730) | 8 Weeks | 6 Hours/Week
+Extension | [Genomic Data Science Specialization](https://www.coursera.org/specializations/genomic-data-science) | 32 Week | 6 Hours/Week  
 
 ### Math
 Code | Course | Duration | Effort
