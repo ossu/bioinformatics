@@ -7,6 +7,9 @@
 * [Genome Space](https://www.broadinstitute.org/scientific-community/science/projects/genomespace/genomespace)
 * [Writing your first academic paper](https://github.com/jtleek/firstpaper)
 * [Statistics for Biologists](http://www.nature.com/collections/qghhqm)
+* [another DS career, apart from the one of OSS](https://github.com/datasciencemasters/go)
+* [don't be a luser](http://www.catb.org/esr/faqs/smart-questions.html)
+* [here's the future](https://biojulia.github.io/Bio.jl/latest/)
 
 # Forums Q&A
 * [BioStars](https://www.biostars.org/)
@@ -20,6 +23,9 @@
 * [Code Q&A](http://stackoverflow.com/)
 * [Ion Community](http://ioncommunity.lifetechnologies.com/community/)
 * [LinuxQuestions](http://www.linuxquestions.org/questions/)
+* [Bioconductor Q&A](https://support.bioconductor.org/)
+* [Statistics Q&A](http://stats.stackexchange.com/)
+* [Data Science Q&A](http://datascience.stackexchange.com/)
 
 # Wikis
 * [SEQAnswers](http://seqanswers.com/wiki/SEQanswers)
@@ -34,6 +40,8 @@
 # Other lists
 * [Bioinformatics Jobs](http://www.indeed.com/q-Bioinformatics-jobs.html)
 * [Biological Databases](https://en.wikipedia.org/wiki/List_of_biological_databases) (can't be up-to-date)
+* [Genomics Class](http://genomicsclass.github.io/book/pages/resources.html)
+* [HTS training materials repository](http://bioinformatics.upsc.se/htmr)
 * [Genomics Papers](https://github.com/jtleek/genomicspapers) by Leek Group
 * [Bioinformatics.org Educational Services](http://www.bioinformatics.org/wiki/Educational_services)
 * [ISCB courses](http://www.iscb.org/iscb-degree-certificate-programs)
