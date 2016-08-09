@@ -1,6 +1,7 @@
 # Bioinformatics - Extra Resources
 
 # Software Documentation
+* Install CLI tools with [BioConda](https://bioconda.github.io/) package manager
 * [Circos](http://circos.ca/documentation/course/)
 * [OpenGene Libraries](https://github.com/OpenGene)
 * [GATK Tools](https://www.broadinstitute.org/gatk/guide/tooldocs/index)
@@ -39,17 +40,20 @@
   * [Short Videos](https://git-scm.com/videos)
   * [Start Contributing Guide](https://about.gitlab.com/2016/06/16/fearless-contribution-a-guide-for-first-timers/)
 * [LaTeX](https://latex-project.org/intro.html)
-  * [Overleaf](http://www.overleaf.com/) write collaboratively
+* [Overleaf](http://www.overleaf.com/) write collaboratively
 * [Markdown](http://daringfireball.net/projects/markdown/)
   * [Here](http://markdown-here.com/)
 * RegEx [Generator](http://www.regexr.com/)
+* RegEx [Debugger](https://regex101.com/)
 * [Plotly](https://plot.ly/)
 * [Small (bioinformatic) Tools Manifesto](https://github.com/pjotrp/bioinformatics)
 * [Terminal Multiplexer](https://robots.thoughtbot.com/a-tmux-crash-course)
 * [ZSH](http://ohmyz.sh/)
+* [VIM](http://vim.rtorr.com/) o rather run 'vimtutor' :P
 * [ShellCheck your scripts](http://www.shellcheck.net/)
 * Writing
     * [Correct your Grammar](https://www.grammarly.com/)
     * [Look-up word by its meaning](http://www.onelook.com/reverse-dictionary.shtml)
+    * [LanguageTool](https://languagetool.org/)
     * google translate, obviusly.
 * [Introduction to HTML](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Introduction)
