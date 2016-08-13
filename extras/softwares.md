@@ -43,8 +43,9 @@
 * [Overleaf](http://www.overleaf.com/) write collaboratively
 * [Markdown](http://daringfireball.net/projects/markdown/)
   * [Here](http://markdown-here.com/)
-* RegEx [Generator](http://www.regexr.com/)
-* RegEx [Debugger](https://regex101.com/)
+* [RegEx Generator](http://www.regexr.com/)
+* [RegEx 101](https://regex101.com/)
+* [RegEx Debugger](https://www.debuggex.com/)
 * [Plotly](https://plot.ly/)
 * [Small (bioinformatic) Tools Manifesto](https://github.com/pjotrp/bioinformatics)
 * [Terminal Multiplexer](https://robots.thoughtbot.com/a-tmux-crash-course)
