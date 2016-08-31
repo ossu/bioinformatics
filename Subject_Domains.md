@@ -12,7 +12,7 @@ BIO 3313b | [Biostatistics 2](https://www.coursera.org/learn/biostatistics-2) | 
 BIO 4311 | [Genetics 2](https://www.edx.org/course/useful-genetics-part-2-genes-genetic-ubcx-usegen-2x-0) | 5 Weeks | 6-8 Hours/Week
 BIO 4312a | [Molecular Biology 1 ](https://www.edx.org/course/molecular-biology-part-1-dna-replication-mitx-7-28-1x1-0) | 8 Weeks | 4-8 Hours/Week
 BIO 4312b | [Molecular Biology 2 ](https://www.edx.org/course/molecular-biology-part-2-transcription-mitx-7-28-2x-0) | 6 Weeks | 4-8 Hours/Week
-BIO 4313a | [Basic Bioinformatics (Bioinformatics 1)](https://www.coursera.org/learn/bioinformatics) | 4 Weeks | 4-6 Hours/Week
+BIO 4312c | [Basic Bioinformatics (Bioinformatics 1)](https://www.coursera.org/learn/bioinformatics) | 4 Weeks | 4-6 Hours/Week
 BIO 4313a | [Evolution](https://www.coursera.org/learn/genetics-evolution) | 11 Weeks | 4-6 Hours/Week
 
 ### Chemistry
