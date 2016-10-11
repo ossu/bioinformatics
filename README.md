@@ -147,6 +147,26 @@ The courses are **already** in the order that you should complete them. Just sta
 
 **If the course isn't open, do it anyway with the resources from the previous class.**
 
+### How to track and show your progress
+
+1. Create an account in [Trello](https://trello.com/).
+1. Copy [this](https://trello.com/b/yax8Kgnh) board to your personal account. See how to copy a board [here](http://blog.trello.com/you-can-copy-boards-now-finally/).
+
+Now that you have a copy of our official board, you just need to pass the cards to the `Doing` column or `Done` column as you progress in your study.
+
+We also have **labels** to help you have more control through the process. The meaning of each of these labels is:
+
+- `Main Curriculum`: cards with that label represent courses that are listed in our curriculum.
+- `Extra Courses`: cards with that label represent courses that was added by the student.
+- `Doing`: cards with that label represent courses the student is current doing.
+- `Done`: cards with that label represent courses finished by the student. Those cards should also have the link for at least one project/article built with the knowledge acquired in such course.
+- `Section`: cards with that label represent the section that we have in our curriculum. Those cards with the `Section` label are only to help the organization of the Done column. You should put the *Course's cards* below its respective *Section's card*.
+- `Extra Sections`: cards with that label represent sections that was added by the student.
+
+The intention of this board is to provide for our students a way to track their progress, and also the ability to show their progress through a public page for friends, family, employers, etc. You can change the status of your board to be **public** or **private**.
+
+
+
 ### Should I take all courses?
 
 **Yes!** The intention is to conclude **all** the courses listed here! Also we highly encourage you to complete more by reading papers and attending research projects after your coursework is done.
