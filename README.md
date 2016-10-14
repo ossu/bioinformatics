@@ -97,12 +97,13 @@ COMP 4311 | [Data Science ](http://cs109.github.io/2015/) | 13 Week | 10 Hours/W
 MATH 4311 | [Inferential Statistics](https://www.edx.org/course/introduction-statistics-inference-uc-berkeleyx-stat2-3x) | 5 Weeks | 8 Hours/Week
 BIO 4312a | [Molecular Biology 1 ](https://www.edx.org/course/molecular-biology-part-1-dna-replication-mitx-7-28-1x1-0) | 8 Weeks | 4-8 Hours/Week
 BIO 4312b | [Molecular Biology 2 ](https://www.edx.org/course/molecular-biology-part-2-transcription-mitx-7-28-2x-0) | 6 Weeks | 4-8 Hours/Week
-BIO 4312c | [Basic Bioinformatics (Bioinformatics 1)](https://www.coursera.org/learn/bioinformatics) | 4 Weeks | 4-6 Hours/Week
+BIO 4312c | [Bioinformatics 1](https://www.coursera.org/learn/dna-analysis) | 4 Weeks | 4-10 Hours/Week
 COMP 4312a | [Bioinformatics 2](https://www.coursera.org/learn/genome-sequencing) | 4 Week | 6 Hours/Week
 COMP 4312b | [Bioinformatics 3](https://www.coursera.org/learn/comparing-genomes) | 4 Week | 6 Hours/Week
 COMP 4312c | [Bioinformatics 4](https://www.coursera.org/learn/molecular-evolution) | 4 Week | 6 Hours/Week
 COMP 4312d | [Bioinformatics 5](https://www.coursera.org/learn/genomic-data) | 4 Week | 6 Hours/Week
 COMP 4312e | [Bioinformatics 6](https://www.coursera.org/learn/dna-mutations) | 4 Week | 6 Hours/Week
+COMP 4312f | [Bioinformatics 7 (Capstone)](https://www.coursera.org/learn/bioinformatics-project) | 3 Week | 3-4 Hours/Week
 BIO 4313 | [Evolution](https://www.coursera.org/learn/genetics-evolution) | 11 Weeks | 4-6 Hours/Week
 
 
