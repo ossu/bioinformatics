@@ -9,3 +9,4 @@
 - [ ] Prepare a reading list of textbooks
 - [ ] Extra reading, most recent papers on bioinformatics technologies
 - [ ] Search for all possible fields of studies (For mastery)
+- [ ] Find a domain of your interest, do your own research while learning ;-)
