@@ -8,6 +8,9 @@
   <a href="https://github.com/open-source-society/bioinformatics">
 	<img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
   </a>
+  <a href="https://www.patreon.com/ossu">
+	<img alt="Contribute with OSSU on Patreon" src="https://img.shields.io/badge/Patreon-contribute-yellow.svg">
+  </a>
 </p>
 
 ## Contents
