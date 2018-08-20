@@ -33,7 +33,7 @@ This is a **solid path** for those of you who want to complete a **Bioinformatic
 
 In our curriculum, we give preference to MOOC (Massive Open Online Course) style courses because these courses were created with our style of learning in mind.
 
-To become a bioinformatician, you have to learn quiet a lot of science, so be ready for subjects like; Biology, Chemistry, etc...
+To become a bioinformatician, you have to learn quite a lot of science, so be ready for subjects like; Biology, Chemistry, etc...
 
 ## Motivation & Preparation
 
