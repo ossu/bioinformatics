@@ -283,7 +283,7 @@ You can also interact through [GitHub issues](https://github.com/open-source-soc
 We also have a chat room!
 [![Gitter](https://badges.gitter.im/open-source-society/bioinformatics.svg)](https://gitter.im/open-source-society/bioinformatics)
 
-Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
+Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and join our [Facebook](https://www.facebook.com/groups/opensourcesocietyu/) group!
 
 > **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our forum for important discussions**.
 
