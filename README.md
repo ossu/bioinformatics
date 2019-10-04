@@ -55,7 +55,7 @@ The second link is a MOOC that will teach you learning techniques used by expert
 
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
-BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) | 12 weeks | 7-14 Hours/Week
+BIO 1311 | [Introduction to Biology] | 12 weeks | 7-14 Hours/Week
 CHEM 1311 | [Principles of  Chemistry](http://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/) | 15 Weeks | 4-6 Hours/Week
 COMP 1311a | [CS 1 - Python 1 ](https://www.coursera.org/learn/interactive-python-1) | 5 Weeks | 6 Hours/Week
 COMP 1311b | [CS 1 - Python 2 ](https://www.coursera.org/learn/interactive-python-2) | 4 Weeks | 6 Hours/Week
@@ -136,7 +136,9 @@ Extension | [Genomic Data Science Specialization](https://www.coursera.org/speci
 
 This guide was developed to be consumed in a linear approach. What does this mean? That you should complete one course at a time.
 
-The courses are **already** in the order that you should complete them. Just start the first course, [Introduction to Biology](), when you done with it, start the next one.
+The courses are **already** in the order that you should complete them. Just start the first course, [Introduction to Biology], when you done with it, start the next one.
+
+[Introduction to Biology]: https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2
 
 **If the course is not open, do it with the archived resources or wait until next class is open.**
 
