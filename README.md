@@ -136,7 +136,7 @@ Extension | [Genomic Data Science Specialization](https://www.coursera.org/speci
 
 This guide was developed to be consumed in a linear approach. What does this mean? That you should complete one course at a time.
 
-The courses are **already** in the order that you should complete them. Just start the first course, [Introduction to Biology](), when you done with it, start the next one.
+The courses are **already** in the order that you should complete them. Just start the first course, [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2), when you done with it, start the next one.
 
 **If the course is not open, do it with the archived resources or wait until next class is open.**
 
