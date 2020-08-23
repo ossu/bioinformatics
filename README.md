@@ -260,12 +260,11 @@ The **extras** section is a place where all of us will be able to submit interes
 
 ## Community
 
+We have a Discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/5pUhfpX)
+
 Subscribe to our [newsletter](https://tinyletter.com/ossu)
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/bioinformatics/issues).
-
-We also have a chat room!
-[![Gitter](https://badges.gitter.im/open-source-society/bioinformatics.svg)](https://gitter.im/open-source-society/bioinformatics)
 
 Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and join our [Facebook](https://www.facebook.com/groups/opensourcesocietyu/) group!
 
