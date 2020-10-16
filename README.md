@@ -23,7 +23,6 @@
 - [How to collaborate](#how-to-collaborate)
 - [Code of Conduct](#code-of-conduct)
 - [Community](#community)
-- [Next Goals](#next-goals)
 - [Team](#team)
 - [References](#references)
 
@@ -92,7 +91,7 @@ COMP 3311b | [Algorithmic Thinking 2 ](https://www.coursera.org/learn/algorithmi
 MATH 3311 | [Linear Regression and Modeling (with R)](https://www.coursera.org/learn/linear-regression-model)| 4 Weeks | 6 Hours/Week
 MATH 3312 | [Bayesian Statistics (with R)](https://www.coursera.org/learn/bayesian) | 5 Weeks | 6 Hours/Week
 BIO 3312 | [Cell Biology ](http://ocw.mit.edu/courses/biology/7-06-cell-biology-spring-2007/) | - Weeks | - Hours/Week
-MATH 3313 | [Differential Equations](https://www.edx.org/course/introduction-differential-equations-bux-math226-1x-0) | 7 Weeks | 8-10 Hours/Week
+MATH 3313 | [Differential Equations](https://ocw.mit.edu/courses/mathematics/18-03sc-differential-equations-fall-2011/) | 7 Weeks | 8-10 Hours/Week
 BIO 3313a | [Biostatistics 1](https://www.coursera.org/learn/biostatistics) | 4 Weeks | 3-5 Hours/Week
 BIO 3313b | [Biostatistics 2](https://www.coursera.org/learn/biostatistics-2) | 4 Weeks | 3-5 Hours/Week
 
@@ -136,7 +135,7 @@ Extension | [Genomic Data Science Specialization](https://www.coursera.org/speci
 
 This guide was developed to be consumed in a linear approach. What does this mean? That you should complete one course at a time.
 
-The courses are **already** in the order that you should complete them. Just start the first course, [Introduction to Biology](), when you done with it, start the next one.
+The courses are **already** in the order that you should complete them. Just start the first course, [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2), when you done with it, start the next one.
 
 **If the course is not open, do it with the archived resources or wait until next class is open.**
 
@@ -182,22 +181,12 @@ In order to show for everyone that you **successfully** finished a course, you s
 
 After finish a course, you should think about a **real world problem** that you can solve using the acquired knowledge in the course. You don't need to create a big project, but you must create something to **validate** and **consolidate** your knowledge, and also to show to the world that you are capable to create something useful with the concepts that you learned.
 
-> This part needs upgrade:
-  - The projects of all students will be listed in [this](https://github.com/open-source-society/help/blob/master/PROJECTS.md) file. Submit your project's information in that file after you conclude it.
-  - Research focused projects
-
   Put the OSSU-Bioinformatics badge in the README of your repository! [![Open Source Society University - Bioinformatics](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)
 
   - Markdown: `[![Open Source Society University - Bioinformatics ](https://img.shields.io/badge/OSSU-bioinformatics-blue.svg)](https://github.com/open-source-society/bioinformatics)`
   - HTML: `<a href="https://github.com/open-source-society/bioinformatics"><img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg"></a>`
 
 **You can create this project alone or with other students!**
-
-#### Project Suggestions
-1. (Add Suggestions Here)
-
-
-And you should also...
 
 ### Be creative!
 
@@ -252,9 +241,6 @@ The **only things** that you need to know are how to use **Git** and **GitHub**.
 - [Git Immersion](http://gitimmersion.com/index.html)
 - [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
 
-## Change Log
-
-
 ## How to collaborate
 
 You can [open an issue](https://help.github.com/articles/creating-an-issue/) and give us your suggestions as to how we can improve this guide, or what we can do to improve the learning experience.
@@ -274,22 +260,13 @@ The **extras** section is a place where all of us will be able to submit interes
 
 ## Community
 
-Subscribe to our [newsletter](https://tinyletter.com/ossu)
+We have a Discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/5pUhfpX)
 
-Use our [forum](https://github.com/ossu/forum) if you need some help.
+Subscribe to our [newsletter](https://tinyletter.com/ossu)
 
 You can also interact through [GitHub issues](https://github.com/open-source-society/bioinformatics/issues).
 
-We also have a chat room!
-[![Gitter](https://badges.gitter.im/open-source-society/bioinformatics.svg)](https://gitter.im/open-source-society/bioinformatics)
-
-Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and [Facebook](https://www.facebook.com/ossuniversity) profile!
-
-> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our forum for important discussions**.
-
-## Next Goals
-
-- [Add our University page at Linkedin](https://help.linkedin.com/app/answers/detail/a_id/40128/~/adding-a-new-university-page), so in that way we will be able to add **OSS University** in our Linkedin profile.
+Add **Open Source Society University** to your [Linkedin](https://www.linkedin.com/school/11272443/) and join our [Facebook](https://www.facebook.com/groups/opensourcesocietyu/) group!
 
 ## Team
 
