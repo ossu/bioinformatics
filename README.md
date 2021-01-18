@@ -260,7 +260,7 @@ The **extras** section is a place where all of us will be able to submit interes
 
 ## Community
 
-We have a Discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/5pUhfpX)
+We have a Discord server! This should be your first stop to talk with other OSSU students. [Why don't you introduce yourself right now?](https://discord.gg/wuytwK5s9h)
 
 Subscribe to our [newsletter](https://tinyletter.com/OpenSourceSocietyUniversity)
 
