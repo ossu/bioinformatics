@@ -71,7 +71,7 @@ MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera
 
 Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
-BIO 2311 | [Biochemistry](https://www.edx.org/course/principles-biochemistry-harvardx-mcb63x) | 15 Weeks | 4-6 Hours/Week
+BIO 2311 | [Biochemistry](https://www.edx.org/course/principles-of-biochemistry) | 15 Weeks | 4-6 Hours/Week
 CHEM 2311 | [Organic Chemistry](http://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/) | 15 Weeks | 4-6 Hours/Week
 COMP 2311 | [CS 2 - Object Oriented Java](https://www.coursera.org/learn/object-oriented-java) | 6 Weeks | 4-6 Hours/Week
 MATH 2311 | [Calculus 3 - Integration](https://www.coursera.org/learn/integration-calculus) | 4 Weeks | 8 Hours/Week
