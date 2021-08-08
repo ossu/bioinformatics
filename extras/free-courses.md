@@ -29,6 +29,8 @@ PH525.7x: Case studies in functional genomics
 * [Griffith's RNA-seq](https://github.com/griffithlab/rnaseq_tutorial/wiki)
 * [NCBI Tutorials](http://www.ncbi.nlm.nih.gov/home/learn.shtml)
 * [Homolog.us Tutorials](http://homolog.us/Tutorials/)
+* [Broad Institute Medical and Population Genetics Primers](https://www.youtube.com/playlist?list=PLEEE2A91B09B77B4A)
+
 
   Try searching keywords like bioinformatics, biology, genomic, genetic, data analysis, data science, computer science, life science... in these websites:
 * [Coursera](https://www.coursera.org/)
