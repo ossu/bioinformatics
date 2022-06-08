@@ -58,4 +58,7 @@
 * LibGen
 * Bookfi
 
+# Neurosciene podcasts 
+- Huberman Lab Podcast : [website](https://hubermanlab.com)
+
 **And always, enjoy [open culture](http://www.openculture.com/)**
