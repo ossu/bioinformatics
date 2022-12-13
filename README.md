@@ -225,16 +225,9 @@ You must share **only** files that you are **allowed** to! **Do NOT disrespect t
 
 ## Prerequisite
 
-The **only things** that you need to know are how to use **Git** and **GitHub**. Here are some resources to learn about them:
+Students without a strong high school background in Biology will benefit from [Getting up to Speed in Biology](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+Pre-7.01+1T2020/about).
 
-**Note**: Just pick one of the courses below to learn the basics. You will learn a lot more once you get started!
-
-- [Try Git](https://try.github.io/levels/1/challenges/1)
-- [Git - the simple guide](http://rogerdudler.github.io/git-guide/)
-- [GitHub Training & Guides](https://www.youtube.com/playlist?list=PLg7s6cbtAD15G8lNyoaYDuKZSKyJrgwB-)
-- [GitHub Hello World](https://guides.github.com/activities/hello-world/)
-- [Git Immersion](http://gitimmersion.com/index.html)
-- [How to Use Git and GitHub](https://www.udacity.com/course/how-to-use-git-and-github--ud775)
+Understanding how to use Git to version your work can be hugely beneficial and is generally not taught in other courses. [Version Control with Git](https://www.udacity.com/course/version-control-with-git--ud123) should get you up to speed.
 
 ## How to collaborate
 
