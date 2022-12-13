@@ -53,14 +53,12 @@ Code | Course | Duration | Effort
 :-- | :--: | :--: | :--:
 BIO 1311 | [Introduction to Biology](https://www.edx.org/course/introduction-biology-secret-life-mitx-7-00x-2) | 12 weeks | 7-14 Hours/Week
 CHEM 1311 | [Principles of  Chemistry](http://ocw.mit.edu/courses/chemistry/5-111-principles-of-chemical-science-fall-2008/) | 15 Weeks | 4-6 Hours/Week
-COMP 1311a | [CS 1 - Python 1 ](https://www.coursera.org/learn/interactive-python-1) | 5 Weeks | 6 Hours/Week
-COMP 1311b | [CS 1 - Python 2 ](https://www.coursera.org/learn/interactive-python-2) | 4 Weeks | 6 Hours/Week
-COMP 1311c | [CS 1 - Principles of Computing 1 ](https://www.coursera.org/learn/principles-of-computing-1) | 4 Weeks | 6 Hours/Week
-COMP 1311d | [CS 1 - Principles of Computing 2 ](https://www.coursera.org/learn/principles-of-computing-2) | 4 Weeks | 6 Hours/Week
+Py4E | [Python for Everybody](https://www.py4e.com/lessons) | 10 weeks | 10 hours/week
+6.00.1x | [Introduction to Computer Science and Programming using Python](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) ([alt](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)) | 9 weeks | 15 hours/week
 MATH 1311 | [College Algebra and Problem Solving](https://www.edx.org/course/college-algebra-problem-solving-asux-mat117x) | 4 Weeks | 6 Hours/Week
 MATH 1312 | [Pre-calculus](https://www.edx.org/course/precalculus-asux-mat170x) | 4 Weeks | 6 Hours/Week
-MATH 1313 | [Calculus 1 - Functions](https://www.coursera.org/learn/single-variable-calculus) | 3 Weeks | 8 Hours/Week
-MATH 1314 | [Calculus 2 - Differentiation](https://www.coursera.org/learn/differentiation-calculus) | 3 Weeks | 8 Hours/Week
+18.01.1x | [Calculus 1A: Differentiation](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.1x+2T2019/about) | 13 weeks | 6-10 hours/week
+18.01.2x | [Calculus 1B: Integration](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.2x+3T2019/about) | 13 weeks | 5-10 hours/week
 MATH 1315 | [Introduction to Probability and Data (with R)](https://www.coursera.org/learn/probability-intro) | 5 Weeks | 6 Hours/Week
 
 
@@ -71,10 +69,10 @@ Code | Course | Duration | Effort
 BIO 2311 | [Biochemistry](https://www.edx.org/course/principles-of-biochemistry) | 15 Weeks | 4-6 Hours/Week
 CHEM 2311 | [Organic Chemistry](http://ocw.mit.edu/courses/chemistry/5-12-organic-chemistry-i-spring-2005/) | 15 Weeks | 4-6 Hours/Week
 COMP 2311 | [CS 2 - Object Oriented Java](https://www.coursera.org/learn/object-oriented-java) | 6 Weeks | 4-6 Hours/Week
-MATH 2311 | [Calculus 3 - Integration](https://www.coursera.org/learn/integration-calculus) | 4 Weeks | 8 Hours/Week
-MATH 2312 | [Mathematics for CS](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm) | 13 Weeks  | 6 Hours/Week
+18.01.3x | [Calculus 1C: Coordinate Systems & Infinite Series](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) | 6 weeks | 5-10 hours/week
+6.042J | [Mathematics for Computer Science](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) ([Solutions](https://github.com/spamegg1/Math-for-CS-solutions)) | 13 weeks | 5 hours/week
 COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
-MATH 2313 | [Linear Algebra](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x) | 15 Weeks | 8 Hours/Week
+18.06 | [Linear Algebra](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/) and [Essence of Linear Algebra](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab) | 14 weeks | 12 hours/week
 COMP 2313 | [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) | 8 Weeks | 5-7 Hours/Week
 MATH 2314 | [Inferential Statistics (with R)](https://www.coursera.org/learn/inferential-statistics-intro) | 5 Weeks | 6 Hours/Week
 
