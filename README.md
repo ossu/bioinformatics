@@ -73,7 +73,7 @@ CHEM 2311 | [Organic Chemistry](http://ocw.mit.edu/courses/chemistry/5-12-organi
 COMP 2311 | [CS 2 - Object Oriented Java](https://www.coursera.org/learn/object-oriented-java) | 6 Weeks | 4-6 Hours/Week
 MATH 2311 | [Calculus 3 - Integration](https://www.coursera.org/learn/integration-calculus) | 4 Weeks | 8 Hours/Week
 MATH 2312 | [Mathematics for CS](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/index.htm) | 13 Weeks  | 6 Hours/Week
-COMP 2312 | [Introduction to Databases](https://lagunita.stanford.edu/courses/Engineering/db/2014_1/about) | 10 Weeks | 8-12 Hours/Week
+COMP 2312 | [Databases](https://online.stanford.edu/courses/soe-ydatabases-databases) | 10 Weeks | 8-12 Hours/Week
 MATH 2313 | [Linear Algebra](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-04x) | 15 Weeks | 8 Hours/Week
 COMP 2313 | [Introduction to Linux](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-0) | 8 Weeks | 5-7 Hours/Week
 MATH 2314 | [Inferential Statistics (with R)](https://www.coursera.org/learn/inferential-statistics-intro) | 5 Weeks | 6 Hours/Week
