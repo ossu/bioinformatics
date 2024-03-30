@@ -1,14 +1,15 @@
-![Open Source Society logo](http://i.imgur.com/kYYCXtC.png)
-
-<h3 align="center">Open Source Society University</h3>
-<p align="center">
+<div style="text-align: center">
+<img src="http://i.imgur.com/kYYCXtC.png" alt="Open Source Society logo"/>
+<h3>Open Source Society University</h3>
+<p>
   :microscope: Path to a free self-taught education in  <strong>Bioinformatics!</strong>
 </p>
-<p align="center">
+<p>
   <a href="https://github.com/open-source-society/bioinformatics">
 	<img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
   </a>
 </p>
+</div>
 
 ## Contents
 
