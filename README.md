@@ -9,7 +9,14 @@
 	<img alt="Open Source Society University - Bioinformatics" src="https://img.shields.io/badge/OSSU-bioinformatics-blue.svg">
   </a>
 </p>
+<p>
+  <h3>
+    Archived
+  </h3>
+</p>
 </div>
+
+Note: this curriculum is not under active development and may be out of date. Read more [here](./ARCHIVED.md).
 
 ## Contents
 
