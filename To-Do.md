@@ -1,7 +1,7 @@
 # To-Do List for Bioinformatics
 
 - [x] Read the papers about online bioinformatics
-- [x] Itemize the topic requirments
+- [x] Itemize the topic requirements
 - [x] Search for other schools curriculum
 - [x] Search for the online education platforms
 - [x] Itemize the courses
